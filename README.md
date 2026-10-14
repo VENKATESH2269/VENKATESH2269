@@ -10,7 +10,6 @@
 - FastAPI,Flask
 - React.js
 - MySQL
-- Docker
 - AWS
 - GitHub Actions
 - REST APIs
@@ -19,9 +18,6 @@
 
 ### AI-Powered Emergency Response System
 Smart emergency management platform with ambulance allocation and real-time response coordination.
-
-### AI Resume Analyzer
-ATS score analysis, resume parsing, and skill-gap recommendations using Llama 3.
 
 ### Text-to-SQL Analytics Platform
 Convert natural language into SQL queries using LangChain and Llama 3.

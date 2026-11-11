@@ -1,20 +1,34 @@
 # Hi 👋, I'm Manchala Venkatesh
 
-### 💻 Java Developer | Full-Stack Developer | AI Enthusiast
+### 💻 Software Engineer | Java & Python Developer | Full-Stack Developer
 
-🚀 Passionate about building Java-based backend applications, AI-powered solutions, and full-stack projects.
+🚀 I build backend and full-stack applications using Java or Python, choosing the right technology based on project requirements. Passionate about AI-powered solutions, scalable applications, and continuous learning.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** Java, Python, SQL
-- **Java Backend:** Spring Boot, Spring Data JPA, Hibernate, REST APIs
-- **Python Backend:** FastAPI, Flask
-- **Frontend:** HTML, CSS, React.js
-- **Database:** MySQL
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions
-- **Tools:** Git, GitHub, Postman
+**Programming Languages**
+- Java
+- Python
+- SQL
+
+**Backend Development**
+- Java: Spring Boot, Spring Data JPA, Hibernate
+- Python: FastAPI, Flask
+- REST APIs
+
+**Frontend Development**
+- HTML, CSS, React.js
+
+**Database**
+- MySQL
+
+**Cloud & DevOps**
+- AWS, Docker, GitHub Actions
+
+**Tools**
+- Git, GitHub, Postman
 
 ---
 
@@ -30,10 +44,10 @@ Convert natural language into SQL queries using LangChain and Llama 3.
 AI-based reachability prediction system for intelligent messaging.
 
 ### 🏨 Hotel Booking & Management System
-Java and Spring Boot application with REST APIs for hotel management, room reservations, and booking workflows.
+Java and Spring Boot-based hotel management and reservation application.
 
 ### 🔗 TinyRoute – URL Shortener
-Java and Spring Boot-based application for creating short URLs and managing URL redirection.
+Java and Spring Boot-based URL shortening application.
 
 ---
 
@@ -47,10 +61,10 @@ Java and Spring Boot-based application for creating short URLs and managing URL 
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/venkatesh-manchala-756bb6272/
-- 🌐 **Portfolio:** https://venkatesh-manchalaa.netlify.app/
-- 📧 **Email:** manchalavenkatesh524@gmail.com
-- 🐙 **GitHub:** https://github.com/VENKATESH2269
+- 💼 LinkedIn: https://www.linkedin.com/in/venkatesh-manchala-756bb6272/
+- 🌐 Portfolio: https://venkatesh-manchalaa.netlify.app/
+- 📧 Email: manchalavenkatesh524@gmail.com
+- 🐙 GitHub: https://github.com/VENKATESH2269
 
 ---
 
